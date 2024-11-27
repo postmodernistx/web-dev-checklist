@@ -33,8 +33,13 @@ Example of a personal checklist.
 - [ ] Always using `min-height` instead of `height`
 - [ ] Font size is set in `rem` or `em`
 
-### JavaScript
+## JavaScript
+
+### Accessibility & SEO
 - [ ] Turn off JavaScript and see how the page is rendered: [Chrome](https://developer.chrome.com/docs/devtools/javascript/disable) | [Firefox](https://support.mozilla.org/en-US/kb/javascript-settings-for-interactive-web-pages#w_for-advanced-users)
+
+### General
+- [ ] Follow consistent naming conventions
 
 
 And so forth…
