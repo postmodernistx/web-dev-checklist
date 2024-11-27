@@ -1,6 +1,9 @@
 # Web Development checklist
 Example of a personal checklist.
 
+## General
+- [ ] Avoid Swenglish
+
 ## HTML
 ### Conventions
 - [ ] Capital letters in CSS
