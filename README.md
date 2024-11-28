@@ -1,6 +1,9 @@
 # Web Development checklist
 Example of a personal checklist.
 
+## Project setup
+- [ ] Commit `.gitignore` the first thing you do
+
 ## General
 - [ ] Avoid Swenglish
 
