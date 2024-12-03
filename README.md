@@ -2,6 +2,7 @@
 Example of a personal checklist.
 
 ## Project setup
+- [ ] Write pseudo code for the tasks
 - [ ] Commit `.gitignore` the first thing you do
 
 ## General
