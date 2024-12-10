@@ -1,5 +1,5 @@
 # Web Development checklist
-Example of a personal checklist.
+Example of a personal checklist for students to start their own checklist from.
 
 ## Project setup
 - [ ] Write pseudo code for the tasks
@@ -24,6 +24,7 @@ Example of a personal checklist.
 - [ ] Proper `lang` attributte on `<html>` tag
 - [ ] Go through [this checklist](https://www.a11yproject.com/checklist/)
 - [ ] Go through [inclusive design checklist from Heydon Pickering](https://github.com/Heydon/inclusive-design-checklist)
+- [ ] Never use `outline: none;` on interactive elements
 
 ### Validation
 - [ ] Check [W3C HTML Validator](https://validator.w3.org/#validate_by_input)
